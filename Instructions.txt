@@ -1,0 +1,7 @@
+How to run the Project
+
+1. Open the Project.ipynb in iPython Notebook.
+2. Execute all the cells.
+3. In the last cell enter the name of the restaurant when prompted for.
+4. The review for that restaurant will be displayed.
+
